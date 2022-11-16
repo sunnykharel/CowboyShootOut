@@ -1,29 +1,5 @@
 // SpaceInvaders.c
 // Runs on LM4F120/TM4C123
-// Jonathan Valvano and Daniel Valvano
-// This is a starter project for the EE319K Lab 10
-
-// Last Modified: 11/20/2018 
-// http://www.spaceinvaders.de/
-// sounds at http://www.classicgaming.cc/classics/spaceinvaders/sounds.php
-// http://www.classicgaming.cc/classics/spaceinvaders/playguide.php
-/* This example accompanies the books
-   "Embedded Systems: Real Time Interfacing to Arm Cortex M Microcontrollers",
-   ISBN: 978-1463590154, Jonathan Valvano, copyright (c) 2018
-
-   "Embedded Systems: Introduction to Arm Cortex M Microcontrollers",
-   ISBN: 978-1469998749, Jonathan Valvano, copyright (c) 2018
-
- Copyright 2018 by Jonathan W. Valvano, valvano@mail.utexas.edu
-    You may use, edit, run or distribute this file
-    as long as the above copyright notice remains
- THIS SOFTWARE IS PROVIDED "AS IS".  NO WARRANTIES, WHETHER EXPRESS, IMPLIED
- OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF
- MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE APPLY TO THIS SOFTWARE.
- VALVANO SHALL NOT, IN ANY CIRCUMSTANCES, BE LIABLE FOR SPECIAL, INCIDENTAL,
- OR CONSEQUENTIAL DAMAGES, FOR ANY REASON WHATSOEVER.
- For more information about my classes, my research, and my books, see
- http://users.ece.utexas.edu/~valvano/
  */
 // ******* Possible Hardware I/O connections*******************
 // Slide pot pin 1 connected to ground
