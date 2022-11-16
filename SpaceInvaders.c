@@ -1,6 +1,5 @@
 // SpaceInvaders.c
 // Runs on LM4F120/TM4C123
- */
 // ******* Possible Hardware I/O connections*******************
 // Slide pot pin 1 connected to ground
 // Slide pot pin 2 connected to PD2/AIN5
